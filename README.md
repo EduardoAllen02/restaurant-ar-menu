@@ -9,6 +9,7 @@ This project loads a restaurant’s dish model and displays it in AR mode using 
 If the device does not support AR, the system automatically switches to a Three.js 3D fallback, keeping the experience functional across all devices.
 The React UI manages the full menu: categories, dish details, pricing, buttons, and navigation.
 
+![image alt](https://github.com/EduardoAllen02/restaurant-ar-menu/blob/0fa67e238ccda6c9cf0cf7c0487b5a9a20e2f16e/ARMenu2.png)
 ### 🛰️ Technologies Used
 
 React – UI structure, states, and layout
