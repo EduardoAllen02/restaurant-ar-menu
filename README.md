@@ -148,3 +148,6 @@ Use Chrome for Android for WebXR support.
 iOS Safari does not support WebXR.
 
 If AR is not available, the 3D fallback viewer loads automatically.
+
+![image alt](https://github.com/EduardoAllen02/restaurant-ar-menu/blob/714bebcd107de68cf75f5797a3d7b150c72d3667/MenuReact.jpeg)
+
